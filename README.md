@@ -1,9 +1,7 @@
 # URI-Judge-Problem-Solutions
  Open source problem solutions in C, Python & Java from URI Judge - www.urionlinejudge.com.br/
 
-
-
-1002 - Área do Círculo - Python 
+1002 - Área do Círculo - Python  
 1003 - Soma Simples - Python
 1040 - Média 3  - Python
 1041 - Coordenadas de um Ponto - Python 
